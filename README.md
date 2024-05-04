@@ -1,6 +1,2 @@
-# skyalker2255.github.io
-simple project on weather forcast using HTML , CSS , JS
+# Prodigy_WD_05
 
-
-
-url = https://skywalker2255.github.io/skyalker2255.github.io/
